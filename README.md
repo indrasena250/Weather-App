@@ -199,6 +199,3 @@ Make sure your frontend `axios` URL points to the deployed backend API.
 ## 👨‍💻 Author
 
 **Indrasena Reddy**
-
-Would you like me to also include a **sample screenshot section** (with placeholders + markdown image formatting) for your GitHub repo?
-I can help you make it visually attractive like a professional portfolio project.
